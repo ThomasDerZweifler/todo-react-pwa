@@ -6,6 +6,10 @@
 
 Im Projekt-Verzeichnis können folgende Terminal-Befehle ausgeführt werden:
 
+### `npm install -g create-react-app`
+
+Installiert `create-react-app` im globalen Kontext. Dies ist die Voraussetzung für `npm start`
+
 ### `npm start`
 
 Führt die Anwendung im Development-Modus aus.<br>
